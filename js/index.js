@@ -6,7 +6,7 @@ let categoria = "todos"
 
 
 // LISTA DE PRODUTOS (SIMULANDO UMA API)
-let produtos = [
+let produto = [
     {
         id: 1,
         nome: "iPhone 15 Pro",
